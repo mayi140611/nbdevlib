@@ -1,6 +1,7 @@
 {
-  "nbdev_template1": {
+  "nbdevlib": {
     "Overview": "/",
-    "module name here": "/core"
+    "module name here": "/core",
+    "nbdev": "/engineering_nbdev"
   }
 }

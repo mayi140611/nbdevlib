@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello1": "00_core.ipynb"}
+index = {"say_hello": "00_core.ipynb"}
 
-modules = ["core1.py"]
+modules = ["core2/cc.py"]
 
 doc_url = "https://fastai.github.io/nbdev_template1/"
 

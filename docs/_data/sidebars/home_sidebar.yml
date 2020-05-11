@@ -12,7 +12,10 @@ entries:
     - output: web,pdf
       title: module name here
       url: /core
+    - output: web,pdf
+      title: nbdev
+      url: /engineering_nbdev
     output: web
-    title: nbdev_template1
+    title: nbdevlib
   output: web
   title: Sidebar
