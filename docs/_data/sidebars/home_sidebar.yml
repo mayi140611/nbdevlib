@@ -13,8 +13,14 @@ entries:
       title: module name here
       url: /core
     - output: web,pdf
+      title: Title
+      url: /template
+    - output: web,pdf
       title: nbdev
       url: /engineering_nbdev
+    - output: web,pdf
+      title: "\u7B80\u4ECB"
+      url: /web_panel
     output: web
     title: nbdevlib
   output: web

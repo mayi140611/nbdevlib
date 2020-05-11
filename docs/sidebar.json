@@ -2,6 +2,8 @@
   "nbdevlib": {
     "Overview": "/",
     "module name here": "/core",
-    "nbdev": "/engineering_nbdev"
+    "Title": "/template",
+    "nbdev": "/engineering_nbdev",
+    "\u7b80\u4ecb": "/web_panel"
   }
 }
